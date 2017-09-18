@@ -78,10 +78,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Saverio Ranciati"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Bologna"
+  bio              : "Postdoc Research fellow at University of Bologna (Italy)."
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=gZkb2tMAAAAJ&hl=it"
   email            :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "savranciati"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
