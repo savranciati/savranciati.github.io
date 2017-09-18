@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saverio Ranciati"
+title                    : "Saverio Ranciati, Ph.D."
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/saverio-ranciati-576b7a52/"
+  linkedin         : "saverio-ranciati-576b7a52/"
   orcid            : 
   pinterest        :
   soundcloud       :
