@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Saverio Ranciati, Ph.D."
 title_separator          : "-"
-name                     : &name ""
-description              : &description "personal description"
+name                     : 
+description              : 
 url                      : https://savranciati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "savranciati/savranciati.github.io"
