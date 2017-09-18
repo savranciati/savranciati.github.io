@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Saverio Ranciati"
-  avatar           : "/_files/profile.jpg"
+  avatar           : "/files/profile.jpg"
   bio              : "Postdoc Research fellow at University of Bologna (Italy)."
   location         : 
   employer         :
