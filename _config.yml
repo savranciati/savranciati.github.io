@@ -78,8 +78,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saverio Ranciati"
-  avatar           : "/files/profile.jpg"
+  name             : ""
+  avatar           : "files/profile.jpg"
   bio              : "Postdoc Research fellow at University of Bologna (Italy)."
   location         : 
   employer         :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "savranciati"
   google_plus      :
   keybase          :
   instagram        :
