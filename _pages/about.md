@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![alt text][logo]
+![alt text][front_image]
 
-[logo]: https://github.com/savranciati/savranciati.github.io/blob/master/images/front_image.jpg "«A wise man proportions his belief to the evidence.»"
+[front_image]: https://github.com/savranciati/savranciati.github.io/blob/master/images/front_image.jpg?raw=true "«A wise man proportions his belief to the evidence.»"
