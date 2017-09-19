@@ -21,11 +21,11 @@ I'm Saverio Ranciati, a postdoc research fellow at the *Department of Statistica
 
 ## Research interests
 At the moment, I'm mainly involved in the following topics:
-* Bayesian statistics and algorithms;
-* Penalized inference;
-* Network analysis;
-* Model-based clustering;
-* Ordinary differential equations.
+* Bayesian Statistics and algorithms;
+* Penalized Inference;
+* Network Analysis;
+* Model-based Clustering;
+* Ordinary Differential Equations.
 
 ## Contact details
 - [unibo website](https://www.unibo.it/sitoweb/saverio.ranciati2/)
