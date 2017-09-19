@@ -15,9 +15,8 @@ redirect_from:
 
 ---
 
-
 # Welcome!
-I'm Saverio Ranciati, a postdoc research fellow at the *Department of Statistical Sciences*, University of Bologna, Italy.
+I'm Saverio Ranciati, a postdoc research fellow @ *Department of Statistical Sciences*, University of Bologna, Italy.
 
 ## Research interests
 At the moment, I'm mainly involved in the following topics:
