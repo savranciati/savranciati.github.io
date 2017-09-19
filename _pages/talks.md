@@ -34,12 +34,12 @@ author_profile: true
   - **where:** *CMS-ERCIM*, University of Pisa, Pisa (Italy);
   - **when:** December 2014.
 
-## Research Experiences
+## Visitings
 
-- Visiting Short Term Scientific Mission (STSM) through **COSTNET Action CA15109**
+- Short Term Scientific Mission (STSM) through **COSTNET Action CA15109**
   - **where:** *Department of Mathematics*, Brunel University London, Uxbridge (U.K.);
   - **when:** February 2017;
 
-- Visiting PhD student 
+- visiting PhD student abroad 
   - **where:** March-September 2014; March 2015;
   - **when:** *J.B. Institute for Math and Computer Science*, University of Groningen, Groningen (The Netherlands);
