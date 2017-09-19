@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Saverio Ranciati"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
