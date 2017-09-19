@@ -28,12 +28,9 @@ At the moment, I'm mainly involved in the following topics:
 * Ordinary differential equations.
 
 ## Contact details
-[unibo personal website](https://www.unibo.it/sitoweb/saverio.ranciati2/)
-
-[e-mail](mailto:saverio.ranciati2@unibo.it)
-
-[(alt) e-mail](mailto:sav.ranciati@gmail.com)
-
-**Address:** 
-> Viale Quirico Filopanti 5
-> Bologna, 40127
+- [unibo website](https://www.unibo.it/sitoweb/saverio.ranciati2/)
+- [e-mail](mailto:saverio.ranciati2@unibo.it)
+- [(alt) e-mail](mailto:sav.ranciati@gmail.com)
+- **Address:**
+  - *office:* Viale Quirico Filopanti 5, Bologna, 40127, Italy;
+  - *department:* Via delle Belle Arti 41, Bologna, 40127, Italy.
