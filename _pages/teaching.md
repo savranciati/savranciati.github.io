@@ -11,4 +11,4 @@ author_profile: true
 - **Teaching assistant** for “*Statistical Inference*”, a.y.(s) 2014-2018;
 - **Teaching assistant** for “*Applied Statistics*”, a.y.(s) 2013-2017.
 
-> For more informations on the current teaching activity, see: [link](https://www.unibo.it/sitoweb/saverio.ranciati2/teachings).
+> For more informations on current teaching activity, see: [link](https://www.unibo.it/sitoweb/saverio.ranciati2/teachings).
