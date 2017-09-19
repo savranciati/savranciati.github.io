@@ -12,16 +12,3 @@ redirect_from:
 **«A wise man proportions his belief to the evidence.»**
 
 (*David Hume*)
-
----
-
-# Welcome!
-I'm Saverio Ranciati, a postdoc research fellow at the *Department of Statistical Sciences*, University of Bologna, Italy.
-
-## Research interests
-At the moment, I'm mainly involved in the following topics:
-* Bayesian Statistics and algorithms;
-* Penalized Inference;
-* Network Analysis;
-* Model-based Clustering;
-* Ordinary Differential Equations.
