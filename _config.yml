@@ -212,6 +212,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _resinterests
+  - scope:
+      path: ""
+      type: resinterests
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _education
   - scope:
       path: ""
