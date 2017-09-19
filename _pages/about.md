@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-AAA
-===
+<p align="justify">
+  "A wise man proportions his belief to the evidence." (*David Hume*)
+</p>
 
-aaa
----
-
-[not a link](http://)
+> "A wise man proportions his belief to the evidence." (*David Hume*)
