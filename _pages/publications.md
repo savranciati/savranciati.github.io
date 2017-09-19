@@ -8,7 +8,7 @@ author_profile: true
 ### Peer-reviewed journals
 
 * Ranciati, S., Viroli, C., Wit, E., (2017), “*Mixture model with multiple allocations for clustering spatially correlated observations in the analysis of ChIP-Seq data*”, **Biometrical Journal**, DOI:10.1002/bimj.201600131, (to appear);
-* Ranciati, S., Viroli, C., Wit, E., (2015), “*Spatio-temporal model for mul- tiple ChIP-Seq experiments*”, **Statistical Applications in Genetics and Molecular Biology**, 14(2), 211-219.
+* Ranciati, S., Viroli, C., Wit, E., (2015), “*Spatio-temporal model for multiple ChIP-Seq experiments*”, **Statistical Applications in Genetics and Molecular Biology**, 14(2), 211-219.
 
 
 ### Under review
