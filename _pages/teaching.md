@@ -10,3 +10,5 @@ author_profile: true
 - **Adjunct Professor** in “*Elements of Statistics*”, a.y.(s) 2016-2017;
 - **Teaching assistant** for “*Statistical Inference*”, a.y.(s) 2014-2018;
 - **Teaching assistant** for “*Applied Statistics*”, a.y.(s) 2013-2017.
+
+> For more informations on the current teaching activity, see: [link](https://www.unibo.it/sitoweb/saverio.ranciati2/teachings).
