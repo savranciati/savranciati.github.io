@@ -20,7 +20,7 @@ redirect_from:
 I'm Saverio Ranciati, a postdoc research fellow at the *Department of Statistical Sciences* (University of Bologna).
 
 ## Research interests
-I'm mainly involved in the following topics:
+At the moment, I'm mainly involved in the following topics:
 * Bayesian statistics and algorithms;
 * Penalized inference;
 * Network analysis;
@@ -29,8 +29,11 @@ I'm mainly involved in the following topics:
 
 ## Contact details
 [unibo personal website](https://www.unibo.it/sitoweb/saverio.ranciati2/)
+
 [e-mail](mailto:saverio.ranciati2@unibo.it)
+
 [(alt) e-mail](mailto:sav.ranciati@gmail.com)
+
 **Address:** 
 > Viale Quirico Filopanti 5
 > Bologna, 40127
