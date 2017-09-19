@@ -80,12 +80,12 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.jpg"
-  bio              : "Postdoc Research Fellow at University of Bologna (Italy)."
+  bio              : "Postdoc Research Fellow at University of Bologna, Italy."
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=gZkb2tMAAAAJ&hl=it"
   email            : "saverio.ranciati2@unibo.it"
-  uri              : "https://www.unibo.it/sitoweb/saverio.ranciati2/"
+  uri              : &alt-website "https://www.unibo.it/sitoweb/saverio.ranciati2/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,7 +101,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
