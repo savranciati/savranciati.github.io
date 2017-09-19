@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
-«A wise man proportions his belief to the evidence.»
+## «A wise man proportions his belief to the evidence.»
+
 (*David Hume*)
-===
+---
