@@ -26,11 +26,3 @@ At the moment, I'm mainly involved in the following topics:
 * Network Analysis;
 * Model-based Clustering;
 * Ordinary Differential Equations.
-
-## Contact details
-- [unibo website](https://www.unibo.it/sitoweb/saverio.ranciati2/)
-- [e-mail](mailto:saverio.ranciati2@unibo.it)
-- [(alt) e-mail](mailto:sav.ranciati@gmail.com)
-- **Address:**
-  - *office:* Viale Quirico Filopanti 5, Bologna, 40127, Italy;
-  - *department:* Via delle Belle Arti 41, Bologna, 40127, Italy.
