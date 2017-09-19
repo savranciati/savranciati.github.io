@@ -212,6 +212,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true      
   # _publications
   - scope:
       path: ""
