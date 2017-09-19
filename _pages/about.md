@@ -9,15 +9,13 @@ redirect_from:
 ---
 
 
-**«A wise man proportions his belief to the evidence.»**
-(*David Hume*)
+**«A wise man proportions his belief to the evidence.»**                                                                            (*David Hume*)
 
 ---
 
 
 # Welcome!
-I'm Saverio Ranciati, a postdoc research fellow at the *Department of Statistical Sciences* "Paolo Fortunati",
-University of Bologna, Italy.
+I'm Saverio Ranciati, a postdoc research fellow at the *Department of Statistical Sciences* "Paolo Fortunati",                   University of Bologna, Italy.
 
 ## Research interests
 At the moment, I'm mainly involved in the following topics:
