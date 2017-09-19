@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="justify">
-  "A wise man proportions his belief to the evidence." (*David Hume*)
-</p>
 
-> "A wise man proportions his belief to the evidence." (*David Hume*)
+«A wise man proportions his belief to the evidence.»
+(*David Hume*)
+===
