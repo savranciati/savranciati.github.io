@@ -15,7 +15,7 @@ redirect_from:
 
 ---
 
-### I strongly encourage to spread awareness, in Academia as in elsewhere, on:
+### I strongly encourage to spread awareness, in Academia and anywhere else, on:
 + gender equality;
 + women in science;
 + LGBTQ+ rights equality;
