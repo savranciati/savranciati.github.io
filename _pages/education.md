@@ -7,7 +7,9 @@ author_profile: true
 
 + **{Ph.D.}** joint double-degree in Statistical Sciences,
   - **when:** 2016;
-  - **from:** *Department of Statistical Sciences, University of Bologna, Italy,* and *J.B. Institute for Mathematics and Computer Science, University of Groningen, The Netherlands*;
+  - **from:** 
+      - *Department of Statistical Sciences, University of Bologna, Italy,*
+      - *J.B. Institute for Mathematics and Computer Science, University of Groningen, The Netherlands*;
   - **thesis:** “Statistical modelling of spatio-temporal dependencies in NGS data”;
 
 + **{Master's Degree}** M.Sc. in Statistical Sciences,
