@@ -16,6 +16,7 @@ redirect_from:
 ---
 
 ### I strongly encourage to spread awareness, in Academia as in elsewhere, on:
-+ gender equality, women in science;
++ gender equality;
++ women in science;
 + LGBTQ+ rights equality;
 + mental health support for researchers, post- and under- graduate.
