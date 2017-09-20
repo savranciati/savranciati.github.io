@@ -11,3 +11,11 @@ redirect_from:
 ![alt text][front_image]
 
 [front_image]: https://github.com/savranciati/savranciati.github.io/blob/master/images/front_image.jpg?raw=true "«A wise man proportions his belief to the evidence.»"
+
+
+---
+
+### I strongly encourage to spread awareness, in Academia as in elsewhere, on:
++ gender equality, women in science;
++ LGBTQ+ rights equality;
++ mental health support for researchers, post- and under- graduate.
