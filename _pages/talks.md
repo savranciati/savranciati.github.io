@@ -7,7 +7,7 @@ author_profile: true
 
 ## Contributed Talks
 
-* “Mixture model under overlapping clusters: an application to network data”,
+* “Identifying overlapping terrorist cells from the Noordin Top actor-event network”,
   - **where:** *COSTNET*, Palma de Mallorca (Spain);
   - **when:** October 2017;
 * “Bayesian Variable Selection in Linear Regression Models with non-normal Errors”,
