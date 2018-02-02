@@ -1,8 +1,10 @@
 # main links links
 main:
-  - title: "Education"
-    url: /education/
-  
+#  - title: "Education"
+#    url: /education/
+  - title: "CV"
+    url: /files/ranciati_academic_cv.pdf
+
   - title: "Research Interests"
     url: /resinterests/
 
@@ -15,5 +17,3 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "CV"
-    url: /files/ranciati_academic_cv.pdf
