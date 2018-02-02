@@ -80,9 +80,9 @@ analytics:
 author:
   name             : ""
   avatar           : "profile_pic.png"
-  bio              : "Postdoc Research Fellow @ University of Bologna, Italy."
+  bio              : "Postdoc Research Fellow @ University of Bologna, Italy. \br <a href=https://youngsis.github.io/index.html>Officer @ ySIS</a>"
   location         : 
-  employer         : "<a href=https://youngsis.github.io/index.html>Officer @ ySIS</a>"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=gZkb2tMAAAAJ&hl=it"
   email            : "saverio.ranciati2@unibo.it"
   uri              : #&alt-website "https://www.unibo.it/sitoweb/saverio.ranciati2/"
