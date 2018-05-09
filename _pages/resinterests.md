@@ -5,7 +5,7 @@ permalink: /resinterests/
 author_profile: true
 ---
 
-(https://github.com/savranciati/savranciati.github.io/blob/master/images/icon.jpg) My academic curriculum is available here: [.pdf](https://github.com/savranciati/savranciati.github.io/blob/master/files/ranciati_academic_cv.pdf)
+![alt text](https://github.com/savranciati/savranciati.github.io/blob/master/images/icon.jpg "") My academic curriculum is available here: [.pdf](/files/ranciati_academic_cv.pdf)
 
 ## 
 At the moment, I'm mainly involved in the following topics:
