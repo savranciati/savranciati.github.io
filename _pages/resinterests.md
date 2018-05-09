@@ -7,6 +7,8 @@ author_profile: true
 
 My academic curriculum is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
 
+---
+
 ## Research Interests
 
 At the moment, I'm mainly involved in the following topics:
