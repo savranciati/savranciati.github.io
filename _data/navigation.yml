@@ -2,8 +2,8 @@
 main:
 #  - title: "Education"
 #    url: /education/
-  - title: "CV"
-    url: /files/ranciati_academic_cv.pdf
+#  - title: "CV"
+#    url: /files/ranciati_academic_cv.pdf
 
   - title: "Research Interests"
     url: /resinterests/
