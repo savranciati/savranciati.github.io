@@ -5,7 +5,7 @@ permalink: /resinterests/
 author_profile: true
 ---
 
-My academic curriculum is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
+For full details, my academic curriculum is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
 
 ---
 
