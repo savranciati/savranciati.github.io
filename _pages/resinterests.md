@@ -1,13 +1,14 @@
 ---
 layout: archive
-title: "CV & Research Interests"
+title: ""
 permalink: /resinterests/
 author_profile: true
 ---
 
-My academic curriculum is available here: [.pdf](/files/ranciati_academic_cv.pdf)
+My academic curriculum is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
 
-## 
+## Research Interests
+
 At the moment, I'm mainly involved in the following topics:
 * Bayesian Statistics and algorithms;
 * Penalized Inference;
