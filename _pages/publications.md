@@ -6,8 +6,8 @@ author_profile: true
 ---
 ### Published in peer-reviewed journals
 
-* Ranciati, S., Galimberti, G., Soffritti, G., (2018), “Bayesian Variable Selection in Linear Regression Models with non-normal Errors”, **Statistical Methods and Applications**, https://doi.org/10.1007/s10260-018-00441-x;
-* Ranciati, S., Crispino, M., D’Angelo, S., Mira, A., (2018), “Understanding dependency patterns in structural and functional brain connectivity through fMRI and DTI data”, **Contributions to Neural Data Science**, *Springer volume “Proceedings in Mathematics & Statistics”*, to appear;
+* Ranciati, S., Galimberti, G., Soffritti, G., (2018), “*Bayesian Variable Selection in Linear Regression Models with non-normal Errors*”, **Statistical Methods and Applications**, https://doi.org/10.1007/s10260-018-00441-x;
+* Crispino, M., D’Angelo, S., Ranciati, S., Mira, A., (2018), “*Understanding dependency patterns in structural and functional brain connectivity through fMRI and DTI data*”, **Studies in Neural Data Science**, Proceedings in Mathematics & Statistics, ISBN-9783030000394;
 * Ranciati, S., Viroli, C., Wit, E. C., (2017), “*Mixture model with multiple allocations for clustering spatially correlated observations in the analysis of ChIP-Seq data*”, **Biometrical Journal**, 59(6), 1301-1316;
 * Ranciati, S., Viroli, C., Wit, E. C., (2015), “*Spatio-temporal model for multiple ChIP-Seq experiments*”, **Statistical Applications in Genetics and Molecular Biology**, 14(2), 211-219.
 
@@ -18,5 +18,5 @@ author_profile: true
 
 ### Proceedings
 
-* Ranciati, S., Galimberti, G., Wit, E. C., Vinciotti, V., (2018), “Overlapping mixture models for network data (manet) with covariates adjustment”, *Proceedings of SIS 2018, Book of short papers*;
-* Ranciati, S., Galimberti, G., Soffritti, G., (2017), “Bayesian Variable Selection in Linear Regression Models with non-normal Errors”, *Proceedings of CLADAG 2017, Book of short papers*.
+* Ranciati, S., Galimberti, G., Wit, E. C., Vinciotti, V., (2018), “*Overlapping mixture models for network data (manet) with covariates adjustment*”, **Book of Short Papers SIS 2018**, ISBN-9788891910233;
+* Ranciati, S., Galimberti, G., Soffritti, G., (2017), “*Bayesian Variable Selection in Linear Regression Models with non-normal Errors*”, **Book of Short Papers CLADAG 2017**, ISBN-9788899459710.
