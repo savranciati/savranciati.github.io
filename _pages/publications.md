@@ -8,7 +8,7 @@ author_profile: true
 
 * Lanci, A., Castagnetti, C., Ranciati, S., Sergio, C., Mariella, J., (2018) “*A regression model including fetal orbit measurements to predict parturition in Standardbred mares with normal pregnancy*”, **Theriogenology**, 126(1), 153-158;
 * Ranciati, S., Galimberti, G., Soffritti, G., (2018), “*Bayesian Variable Selection in Linear Regression Models with non-normal Errors*”, **Statistical Methods and Applications**, https://doi.org/10.1007/s10260-018-00441-x;
-* Crispino, M., D’Angelo, S., Ranciati, S., Mira, A., (2018), “*Understanding dependency patterns in structural and functional brain connectivity through fMRI and DTI data*”, **Studies in Neural Data Science**, Springer Volume 'Proceedings in Mathematics & Statistics', ISBN-9783030000394;
+* Crispino, M., D’Angelo, S., Ranciati, S., Mira, A., (2017), “*Understanding dependency patterns in structural and functional brain connectivity through fMRI and DTI data*”, **Studies in Neural Data Science**, START UP RESEARCH, 1-22;
 * Ranciati, S., Viroli, C., Wit, E. C., (2017), “*Mixture model with multiple allocations for clustering spatially correlated observations in the analysis of ChIP-Seq data*”, **Biometrical Journal**, 59(6), 1301-1316;
 * Ranciati, S., Viroli, C., Wit, E. C., (2015), “*Spatio-temporal model for multiple ChIP-Seq experiments*”, **Statistical Applications in Genetics and Molecular Biology**, 14(2), 211-219.
 
