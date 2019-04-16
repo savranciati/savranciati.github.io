@@ -14,8 +14,8 @@ author_profile: true
 
 ### Submitted, under review, working papers
 
-* Ranciati, S., Vinciotti, V., Wit, E. C., (2018), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, under review;
-* Ranciati, S., Wit, E.C., Viroli, C., (2018), “*Bayesian Smooth-and-Match strategy for ordinary differential equations models that are linear in the parameters*”, **Statistica Neerlandica**, under review.
+* Ranciati, S., Vinciotti, V., Wit, E. C., (2019), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, under review;
+* Ranciati, S., Wit, E.C., Viroli, C., (2019), “*Bayesian Smooth-and-Match strategy for ordinary differential equations models that are linear in the parameters*”, **Statistica Neerlandica**, under review.
 
 ### Proceedings
 
