@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /resinterests/
+permalink: /bio/
 author_profile: true
 ---
 
