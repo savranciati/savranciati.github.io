@@ -19,7 +19,3 @@ redirect_from:
 + gender equality & women in science;
 + LGBTQIA+ rights;
 + mental health support for researchers, post- and under- graduate.
-
----
-
-> For informations on current teaching activity, see: [link](https://www.unibo.it/sitoweb/saverio.ranciati2/teachings).
