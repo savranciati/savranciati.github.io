@@ -6,7 +6,7 @@ main:
 #    url: /files/ranciati_academic_cv.pdf
 
   - title: "Academic Bio + CV"
-    url: /resinterests/
+    url: /bio/
 
   - title: "Publications"
     url: /publications/
