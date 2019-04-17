@@ -5,14 +5,13 @@ permalink: /resinterests/
 author_profile: true
 ---
 
-For full details, my academic curriculum is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
+Saverio Ranciati is a postdoc research fellow at the Department of Statistical Sciences “Paolo Fortunati” in Bologna, Italy. He graduated in 2016 from a joint double-PhD programme organized by the University of Bologna and the University of Groningen. His research areas include *penalized regression*, *network analysis*, *graphical models*, and *Bayesian techniques*.
+
+He is very passionate about teaching activity, as he believes it is vital to foster - with enthusiasm - interest in Statistics. Also, he encourages to spread awareness in Academia on gender equality & women in science, LGBTQIA+ rights, and mental health support for researchers, post- and under- graduate students.
+
+He is the current coordinator of Young SIS, the young section of the Italian Statistical Society, which is a group that promote activities targeted at PhD candidates, postdocs, and researchers at the early stages of their careers.
+You can find more info about ySIS at : https://youngsis.github.io
 
 ---
 
-## Research Interests
-
-At the moment, I'm mainly involved in the following topics:
-* Bayesian Statistics and algorithms;
-* Penalized Inference;
-* Graphical models;
-* Model-based clustering.
+For full details, his academic curriculum is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
