@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### Published in peer-reviewed journals & volumes
 
+* Ranciati, S., Wit, E.C., Viroli, C., (2019), “*Bayesian Smooth-and-Match strategy for ordinary differential equations models that are linear in the parameters*”, **Statistica Neerlandica**, to appear.
 * Ranciati, S., Galimberti, G., Soffritti, G., (2019), “*Bayesian Variable Selection in Linear Regression Models with non-normal Errors*”, **Statistical Methods and Applications**, 28 (2), 323-358;
 * Crispino, M., D’Angelo, S., Ranciati, S., Mira, A., (2018), “*Understanding dependency patterns in structural and functional brain connectivity through fMRI and DTI data*”, In: Canale A., Durante D., Paci L., Scarpa B. (eds) **Studies in Neural Data Science**, START UP RESEARCH 2017, Springer Proceedings in Mathematics & Statistics, vol 257(1-22);
 * Lanci, A., Castagnetti, C., Ranciati, S., Sergio, C., Mariella, J., (2018) “*A regression model including fetal orbit measurements to predict parturition in Standardbred mares with normal pregnancy*”, **Theriogenology**, 126(1), 153-158;
@@ -14,8 +15,8 @@ author_profile: true
 
 ### Submitted, under review, working papers
 
+* Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2019), "*Mixtures of multivariate generalized linear models with overlapping clusters*", **--**, working paper;
 * Ranciati, S., Vinciotti, V., Wit, E. C., (2019), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, under review;
-* Ranciati, S., Wit, E.C., Viroli, C., (2019), “*Bayesian Smooth-and-Match strategy for ordinary differential equations models that are linear in the parameters*”, **Statistica Neerlandica**, under review.
 
 ### Proceedings
 
