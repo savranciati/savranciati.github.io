@@ -10,7 +10,7 @@ His **research interests** include *penalized regression*, *network analysis*, *
 
 He is very passionate about his **teaching** activity, and he believes it is vital to foster enthusiasm in understanding and using Statistics. Also, he encourages to spread **awareness** in Academia on *gender equality & women in science*, LGBTQIA+ *rights*, and *mental health support* for researchers, post- and under- graduate students.
 
-He has been **coordinator** of **Young SIS**, the young section of the *Italian Statistical Society*, which is a group that promote activities targeted at PhD candidates, postdocs, and researchers at the early stages of their careers.
+He was **coordinator** (in 2019) and member of the board (2018-2019) of **Young SIS**, the young section of the *Italian Statistical Society*, which is a group that promote activities targeted at PhD candidates, postdocs, and researchers at the early stages of their careers.
 You can find more info about **Young SIS** at : https://youngsis.github.io
 
 ---
