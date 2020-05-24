@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### Published in peer-reviewed journals & volumes
 
-* Ranciati, S., Wit, E. C., Viroli, C., (2019), “*Bayesian Smooth-and-Match strategy for ordinary differential equations models that are linear in the parameters*”, **Statistica Neerlandica**, 1-20.
+* Ranciati, S., Wit, E. C., Viroli, C., (2020), “*Bayesian Smooth-and-Match strategy for ordinary differential equations models that are linear in the parameters*”, **Statistica Neerlandica**, 74 (2), 125-144;
 * Ranciati, S., Galimberti, G., Soffritti, G., (2019), “*Bayesian Variable Selection in Linear Regression Models with non-normal Errors*”, **Statistical Methods and Applications**, 28 (2), 323-358;
 * Lanci, A., Castagnetti, C., Ranciati, S., Sergio, C., Mariella, J., (2019) “*A regression model including fetal orbit measurements to predict parturition in Standardbred mares with normal pregnancy*”, **Theriogenology**, 126(1), 153-158;
 * Crispino, M., D’Angelo, S., Ranciati, S., Mira, A., (2018), “*Understanding dependency patterns in structural and functional brain connectivity through fMRI and DTI data*”, In: Canale A., Durante D., Paci L., Scarpa B. (eds) **Studies in Neural Data Science**, START UP RESEARCH 2017, Springer Proceedings in Mathematics & Statistics, vol 257(1-22);
