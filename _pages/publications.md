@@ -15,9 +15,9 @@ author_profile: true
 
 ### Submitted, under review, working papers
 
-* Luati, A., Ranciati, S., Roverato, A., (2019), "*Fused graphical lasso with edge symmetries: an application to resting state fMRI*", **--**, working paper;
-* Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2019), "*Mixtures of multivariate generalized linear models with overlapping clusters*", **arxiv**, working paper;
-* Ranciati, S., Vinciotti, V., Wit, E. C., (2019), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, under review;
+* Ranciati, S., Roverato, A., Luati, A., (2020), "*Fused graphical lasso for brain networks with symmetries*", **arxiv**, submitted;
+* Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2020), "*Mixtures of multivariate generalized linear models with overlapping clusters*", **arxiv**, submitted;
+* Ranciati, S., Vinciotti, V., Wit, E. C., (2020), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, under review;
 
 ### Proceedings
 
