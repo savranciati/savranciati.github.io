@@ -20,7 +20,7 @@ author_profile: true
 * Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2020), "*Mixtures of multivariate generalized linear models with overlapping clusters*", **arxiv**, submitted;
 
 ### Proceedings
-
+* Berrettini, M., Galimberti, G., Murphy, T. B., Ranciati, S., (2019) "Mixtures of experts with flexible concomitant covariate effects: a bayesian solution." **Book of Short Papers Cladag 2019**, ISBN 978-88-8317-108-6;
 * Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2019), “Clus- tering two-mode binary network data with overlapping mixture model and covariates information”, **Book of Short Papers Cladag 2019**, ISBN 978-88-8317-108-6;
 * Ranciati, S., Galimberti, G., Wit, E. C., Vinciotti, V., (2018), “*Overlapping mixture models for network data (manet) with covariates adjustment*”, **Book of Short Papers SIS 2018**, ISBN-9788891910233;
 * Ranciati, S., Galimberti, G., Soffritti, G., (2017), “*Bayesian Variable Selection in Linear Regression Models with non-normal Errors*”, **Book of Short Papers CLADAG 2017**, ISBN-9788899459710.
