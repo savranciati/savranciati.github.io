@@ -6,6 +6,7 @@ author_profile: true
 ---
 ### Published in peer-reviewed journals & volumes
 
+* Ranciati, S., Roverato, A., Luati, A., (2021), "*Fused graphical lasso for brain networks with symmetries*", **Journal of Royal Statistical Society: Series C**, to appear;
 * Ranciati, S., Vinciotti, V., Wit, E. C., (2020), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, 14 (3), 1516-1534;
 * Ranciati, S., Wit, E. C., Viroli, C., (2020), “*Bayesian Smooth-and-Match strategy for ordinary differential equations models that are linear in the parameters*”, **Statistica Neerlandica**, 74 (2), 125-144;
 * Ranciati, S., Galimberti, G., Soffritti, G., (2019), “*Bayesian Variable Selection in Linear Regression Models with non-normal Errors*”, **Statistical Methods and Applications**, 28 (2), 323-358;
@@ -16,7 +17,6 @@ author_profile: true
 
 ### Submitted, under review, working papers
 
-* Ranciati, S., Roverato, A., Luati, A., (2020), "*Fused graphical lasso for brain networks with symmetries*", **arxiv**, submitted;
 * Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2020), "*Mixtures of multivariate generalized linear models with overlapping clusters*", **arxiv**, submitted;
 
 ### Proceedings
