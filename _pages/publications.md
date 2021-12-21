@@ -4,6 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+##### > For full details, curriculum with list of publications is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
 
 ### Submitted, under review, working papers
 
