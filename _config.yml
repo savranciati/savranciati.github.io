@@ -69,11 +69,11 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-#analytics:
- # provider               :  "google" # false (default), "google", "google-universal", "custom"
-  #google:
-   # tracking_id          : G-1G877NP06H
+#Analytics
+analytics:
+ provider               :  "google" # false (default), "google", "google-universal", "custom"
+  google:
+   tracking_id          : G-1G877NP06H
   
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1G877NP06H"></script>
