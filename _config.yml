@@ -70,10 +70,20 @@ social:
 
 
 # Analytics
-analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : G-1G877NP06H
+#analytics:
+ # provider               :  "google" # false (default), "google", "google-universal", "custom"
+  #google:
+   # tracking_id          : G-1G877NP06H
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1G877NP06H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1G877NP06H');
+</script>
 
 
 # Site Author
