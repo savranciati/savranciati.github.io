@@ -70,10 +70,10 @@ social:
 
 
 #Analytics
-analytics:
- provider               :  "google" # false (default), "google", "google-universal", "custom"
-  google:
-   tracking_id          : G-1G877NP06H
+#analytics:
+# provider               :  "google" # false (default), "google", "google-universal", "custom"
+#  google:
+#   tracking_id          : G-1G877NP06H
   
 
 # Site Author
