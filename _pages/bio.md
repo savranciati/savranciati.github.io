@@ -15,6 +15,6 @@ You can find more info about **Young SIS** at : https://youngsis.github.io
 
 ---
 
-##### > For full details, his academic curriculum is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
+##### > For full details, his academic curriculum (in italian) is available here: [**[.pdf]**](/files/ranciati_academic_cv.pdf)
 
 ##### > For informations on current teaching activity, see: [**[link]**](https://www.unibo.it/sitoweb/saverio.ranciati2/teachings).
