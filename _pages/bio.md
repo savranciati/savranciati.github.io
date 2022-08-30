@@ -5,7 +5,7 @@ permalink: /bio/
 author_profile: true
 ---
 
-Saverio Ranciati is an **assistant professor (junior)** in **Statistics** at the *Department of Statistical Sciences “Paolo Fortunati”* in Bologna, Italy. He graduated from a **joint double-PhD** programme, organized by the *University of Bologna* and the *University of Groningen*.
+Saverio Ranciati is an **assistant professor (senior)** in **Statistics** at the *Department of Statistical Sciences “Paolo Fortunati”* in Bologna, Italy. He graduated from a **joint double-PhD** programme, organized by the *University of Bologna* and the *University of Groningen*.
 His **research interests** include *penalized regression and inference*, *graphical models*, *model-based clustering*, *computational statistics* and *Bayesian techniques*.
 
 He is very passionate about his **teaching** activity, and he believes it is vital to foster enthusiasm in understanding and using Statistics. Also, he encourages to spread **awareness** in Academia on *gender equality & women in science*, LGBTQIA+ *rights*, and *mental health support* for researchers, post- and under- graduate students.
