@@ -9,10 +9,10 @@ author_profile: true
 ### Submitted, under review, working papers
 
 * Berrettini, M., Galimberti, G., Ranciati, S., Murphy, T. B., (-), “Identifying voting patterns on Brexit in the British House of Commons: an analysis based on Bayesian mixture models with flexible concomitant covariate effects”, under review;
-* Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (-), "*Mixtures of multivariate generalized linear models with overlapping clusters*", in preparation;
 
 ### Selection of published papers in peer-reviewed journals & volumes
 
+* Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2023), "*Mixtures of multivariate generalized linear models with overlapping clusters*", Bayesian Analysis, to appear;
 * Berrettini, M., Galimberti, G., Ranciati, S., (2022), “Semiparametric finite mixture of regression models with Bayesian P-splines”, Advances in Data Analysis and Classification;
 * Ranciati, S., Roverato, A., Luati, A., (2021), "*Fused graphical lasso for brain networks with symmetries*", **Journal of Royal Statistical Society: Series C**, 70 (5), 1299- 1322;
 * Ranciati, S., Vinciotti, V., Wit, E. C., (2020), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, 14 (3), 1516-1534;
