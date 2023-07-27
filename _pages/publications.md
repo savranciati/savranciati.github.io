@@ -12,7 +12,8 @@ author_profile: true
 
 ### Selection of published papers in peer-reviewed journals & volumes
 
-* Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2023), "*Mixtures of multivariate generalized linear models with overlapping clusters*", Bayesian Analysis, to appear;
+* Ranciati, S., Roverato, A., (2023). "*On the application of Gaussian graphical models to paired data problems*", arXiv pre-print, https://arxiv.org/abs/2307.14160
+* Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2023), "*Mixtures of multivariate generalized linear models with overlapping clusters*", Bayesian Analysis, 1-25;
 * Berrettini, M., Galimberti, G., Ranciati, S., (2022), “Semiparametric finite mixture of regression models with Bayesian P-splines”, Advances in Data Analysis and Classification;
 * Ranciati, S., Roverato, A., Luati, A., (2021), "*Fused graphical lasso for brain networks with symmetries*", **Journal of Royal Statistical Society: Series C**, 70 (5), 1299- 1322;
 * Ranciati, S., Vinciotti, V., Wit, E. C., (2020), “*Identifying overlapping terrorist cells from the Noordin Top actor-event network*”, **Annals of Applied Statistics**, 14 (3), 1516-1534;
