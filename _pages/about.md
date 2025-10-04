@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-enableEmoji: true
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +15,7 @@ redirect_from:
 
 ---
 
-# **F r e e  :palestinian_territories:  P a l e s t i n e**
+# **F r e e  🇵🇸  P a l e s t i n e**
 
 ---
 
