@@ -15,6 +15,10 @@ redirect_from:
 
 ---
 
+F r e e  -  P a l e s t i n e
+
+---
+
 ### I *strongly* encourage to spread awareness, in Academia and anywhere else, on:
 + gender equality & women in science;
 + LGBTQAI+ rights;
