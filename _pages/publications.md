@@ -11,7 +11,7 @@ author_profile: true
 
 ### Selection of published papers in peer-reviewed journals & volumes
 
-* Berrettini, M., Galimberti, G., Murphy, T. B., Ranciati, S., (-), “*Modelling football players field position via mixture of Gaussians with flexible weights*”, **Post proceedings Cladag 2023 “Studies in Classification, Data Analysis and Knowledge Organization”**, accepted, to appear;
+* Berrettini, M., Galimberti, G., Murphy, T. B., Ranciati, S., (2025), “*Modelling Football Players' Field Position via Mixtures of Gaussians with Flexible Weights*”, **In: Statistical Models and Learning Methods for Complex Data (Post-proceedings CLADAG 2023. Studies in Classification, Data Analysis, and Knowledge Organization.)**, DOI: 10.1007/978-3-031-84702-8_3;
 * Ranciati, S., Roverato, A., (2024), “*On the application of Gaussian graphical models to paired data problems*”, **Statistics and Computing**, 34, 209, DOI: 10.1007/s11222-024-10513-6;
 * Berrettini, M., Galimberti, G., Ranciati, S., Murphy, T. B., (2024), “*Identifying voting patterns on Brexit in the British House of Commons: an analysis based on Bayesian mixture models with flexible concomitant covariate effects*”, **Journal of the Royal Statistical Society: Series C**, 73 (3), 621-638;
 * Ranciati, S., Vinciotti, V., Wit, E. C., Galimberti, G., (2024), "*Mixtures of multivariate generalized linear models with overlapping clusters*", **Bayesian Analysis**, 19 (3), 843-867;
