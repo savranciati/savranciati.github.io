@@ -7,10 +7,11 @@ author_profile: true
 ##### > For full details, curriculum with list of publications is available here: [**[.pdf]**](/files/ranciati_cv.pdf)
 
 ### Softwares
-* **pdglasso** (R package): https://github.com/savranciati/pdglasso
+* **pdglasso** (R package): https://github.com/savranciati/pdglasso; now published on CRAN: https://cran.r-project.org/web/packages/pdglasso/index.html
 
-### Selection of published papers in peer-reviewed journals & volumes
+### Selection of published papers in peer-reviewed journals & volumes and working papers
 
+* Carvisiglia, L., Ranciati, S., Signorelli, M. (2026), “Dynamic prediction intervals for survival times”, arXiv, https://doi.org/10.48550/arXiv.2609.10409
 * Berrettini, M., Galimberti, G., Murphy, T. B., Ranciati, S., (2025), “*Modelling Football Players' Field Position via Mixtures of Gaussians with Flexible Weights*”, **In: Statistical Models and Learning Methods for Complex Data (Post-proceedings CLADAG 2023. Studies in Classification, Data Analysis, and Knowledge Organization.)**, DOI: 10.1007/978-3-031-84702-8_3;
 * Ranciati, S., Roverato, A., (2024), “*On the application of Gaussian graphical models to paired data problems*”, **Statistics and Computing**, 34, 209, DOI: 10.1007/s11222-024-10513-6;
 * Berrettini, M., Galimberti, G., Ranciati, S., Murphy, T. B., (2024), “*Identifying voting patterns on Brexit in the British House of Commons: an analysis based on Bayesian mixture models with flexible concomitant covariate effects*”, **Journal of the Royal Statistical Society: Series C**, 73 (3), 621-638;
