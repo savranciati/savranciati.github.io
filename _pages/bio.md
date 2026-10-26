@@ -12,7 +12,7 @@ He has been involved in past and ongoing national and international projects: **
 
 He is very passionate about his **teaching** activity, and he believes it is vital to foster enthusiasm in understanding and using Statistics. Also, he encourages to spread **awareness** in Academia on *gender equality & women in science*, LGBTQIA+ *rights*, and *mental health support* for researchers, post- and under- graduate students.
 
-He was **coordinator** (in 2019) and member of the board (2018-2019) of **Young SIS**, the young section of the *Italian Statistical Society*, which is a group that promote activities targeted at PhD candidates, postdocs, and researchers at the early stages of their careers. Since 2024, he is also member of the directive board of SIS.
+He is currently member of the *Italian Statistical Society (SIS)* directive board (2024-2028); he was **coordinator** (in 2019) and member of the board (2018-2019) of **Young SIS**, the young section of the *SIS*, which is a group that promote activities targeted at PhD candidates, postdocs, and researchers at the early stages of their careers.
 You can find more info about **Young SIS** at : https://youngsis.github.io
 
 ---
